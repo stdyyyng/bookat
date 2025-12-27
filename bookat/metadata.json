@@ -1,8 +1,0 @@
-
-{
-  "name": "bookat! - book at my home with my cat",
-  "description": "고양이와 함께하는 따뜻한 독서 기록 앱. 홈 화면에 추가하여 편리하게 사용하세요.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
